@@ -1,0 +1,61 @@
+
+[
+  {
+    "id": 1,
+    "title": "Uw Partner in Detachering",
+    "subtitle": "Wij verbinden gekwalificeerd personeel met uw bedrijf in de bouw, zorg en elektra.",
+    "ctas": [
+      { "label": "Onze Diensten", "href": "/diensten", "variant": "primary" },
+      { "label": "Neem Contact Op", "href": "/contact", "variant": "secondary" }
+    ],
+    "image": "/images/placeholder-hero-1.jpg",
+    "thumb": "/images/placeholder-thumb-1.jpg",
+    "background": { "mode": "blur" },
+    "alt": "Professionals in een vergadering"
+  },
+  {
+    "id": 2,
+    "title": "Vind Uw Volgende Carrière",
+    "subtitle": "Op zoek naar een nieuwe uitdaging? Ontdek de mogelijkheden die wij bieden voor professionals zoals u.",
+    "ctas": [
+      { "label": "Bekijk Vacatures", "href": "/solliciteren", "variant": "primary" }
+    ],
+    "image": "/images/placeholder-hero-2.jpg",
+    "thumb": "/images/placeholder-thumb-2.jpg",
+    "background": {
+      "mode": "gradient",
+      "start": "#0B0E2A",
+      "end": "#1f2937"
+    },
+    "alt": "Bouwvakker op een bouwplaats"
+  },
+  {
+    "id": 3,
+    "title": "Flexibele HR Oplossingen",
+    "subtitle": "Van werving & selectie tot complete verloning, wij bieden maatwerkoplossingen voor uw organisatie.",
+    "ctas": [
+        { "label": "Over Ons", "href": "/over-ons", "variant": "primary" }
+    ],
+    "image": "/images/placeholder-hero-3.jpg",
+    "thumb": "/images/placeholder-thumb-3.jpg",
+    "background": { "mode": "blur" },
+    "alt": "Zorgmedewerker die een patiënt helpt"
+  },
+   {
+    "id": 4,
+    "title": "Specialisten in de Zorg",
+    "subtitle": "Toegewijd zorgpersoneel voor diverse instellingen. Kwaliteit en zorgzaamheid staan voorop.",
+    "ctas": [
+        { "label": "Onze Diensten", "href": "/diensten", "variant": "primary" },
+        { "label": "Contact", "href": "/contact", "variant": "secondary" }
+    ],
+    "image": "/images/placeholder-hero-4.jpg",
+    "thumb": "/images/placeholder-thumb-4.jpg",
+     "background": {
+      "mode": "gradient",
+      "start": "#1e3a8a",
+      "end": "#0B0E2A"
+    },
+    "alt": "Close-up van medische apparatuur"
+  }
+]
